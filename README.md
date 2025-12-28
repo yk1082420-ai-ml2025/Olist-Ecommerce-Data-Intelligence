@@ -25,9 +25,9 @@ The analysis yielded high-impact insights for strategic decision-making:
 4.  **Logistics Performance:** Identified clear correlations between geographic distance and delivery lead times, highlighting regional shipping bottlenecks.
 
 ## 🖼️ Visual Insights
-| Geographic Sales Distribution | Revenue by Product Category |
+|   Revenue by Product Category | Geographic Sales Distribution|
 | :---: | :---: |
-| ![State Sales](plots/State_Sales_Distribution.png) | ![Revenue Chart](plots/Product_Category_By_Revenue.png) |
+|  ![Revenue Chart](plots/Product_Category_By_Revenue.png) | ![State Sales](plots/State_Sales_Distribution.png)
 
 ## ⚙️ Setup & Installation
 Follow these steps to replicate the analysis in your local environment:
