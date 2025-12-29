@@ -17,7 +17,7 @@ To adhere to industry-standard data science workflows, the repository is structu
 * **Data Visualization:** Matplotlib, Seaborn
 * **Core Concepts:** Data Cleaning, Feature Engineering, Relational Mapping (Joins), and EDA.
 
-## 📈 Key Business Intelligence (KPIs)
+## 📈 Key Business Intelligence (KBIs)
 The analysis yielded high-impact insights for strategic decision-making:
 1.  **Top Revenue Drivers:** The **'Health & Beauty'** and **'Watches & Gifts'** categories are the primary contributors to total GMV.
 2.  **Market Concentration:** **São Paulo (SP)** is the dominant hub, representing over **40% of total customer density** and sales volume.
